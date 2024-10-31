@@ -14,7 +14,7 @@ function App() {
   };
 
   const countIncrement = () => {
-    setCount(prevCount => prevCount + 109); // Use setCount to update the state
+    setCount(prevCount => prevCount + 1); // Use setCount to update the state
   };
 
   const countDecrement = () => {

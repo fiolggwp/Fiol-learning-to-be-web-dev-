@@ -110,4 +110,4 @@ export default Users; // Экспорт компонента Users для исп
 // в строку JSON.В этом коде JSON.stringify(user.profession) === JSON.stringify(selectedProf) 
 // используется для сравнения объектов user.profession и selectedProf как строк.Это необходимо, 
 // потому что в JavaScript объектные данные(user.profession и selectedProf) сравниваются по ссылке,
-//  а не по значению.
+//  а не по значению.0
